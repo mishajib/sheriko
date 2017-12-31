@@ -1,0 +1,107 @@
+.top_bar{
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+.top_logo> img{
+    width: 62px;
+}
+.top_logo> h4{
+    font-family: 'Aladin', cursive;
+     font-size: 25px;
+       color: #F5600F;
+           margin: 0;
+}
+.content_free> img{
+      width: 300px;
+    height: 95px;
+}
+.content_free> h4{
+    font-family: 'Creepster', cursive;
+    font-size: 37px;
+    color: white;
+    background: #F5600F;
+    border: 3px solid #CDCACC;
+    border-radius: 17px;
+    margin-top: 17px;
+    transition: all 1s;
+    padding-top: 8px;
+    padding-bottom: 4px;
+    box-shadow: 0 8px 15px rgba(0,0,0,.8);
+}
+.content_free> h4:hover{
+    transform: scale(1.2);
+}
+.section_title{
+    background-image: url(../images/slider_shadow.png), url(../images/photo142738490634930452365b5e8min.jpg);
+    background-position: center, center;
+    background-attachment: fixed, fixed;
+    background-size: cover;
+    padding-top: 40px;
+    padding-bottom: 15px;
+}
+.section_title>.row> h1{
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: white;
+    margin-top: 45px;
+    margin-bottom: 22px;
+    white-space: pre-line;
+}
+.section_title>.row> h1> span{
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: #F5600F;
+    margin-top: 56px;
+}
+.section_title> .row> h3{
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #D3DFED;
+    padding-top: 12px;
+    white-space: pre-line;
+    margin-bottom: 53px;
+}
+.section_title> .row> p{
+    margin-bottom: 50px;
+    transition: all 0.7s;
+}
+.section_title> .row> p:hover{
+    transform: scale(1, 1.2);
+}
+.btn_one{
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    background: #F5600F;
+    color: white;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border-radius: 64px;
+    border: 2px solid #CDCACC;
+text-decoration: none;
+}
+.btn_one:hover{
+    text-decoration: none;
+    background: transparent;
+    border: 2px solid #CDCACC;
+    color: #D2D6DC;
+
+}
+.section_title> .row> h4{
+    font-size: 24px;
+    font-weight: 300;
+    font-family: 'Bungee Inline', cursive;
+    color: #2E353B;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    border: 1px solid white;
+    white-space: pre-line;
+    margin-bottom: 68px;
+    background: #DADBDD;
+}
+
