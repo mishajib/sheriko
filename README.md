@@ -1,2 +1,1 @@
-# https://mishajib.github.io/sheriko/
-# sheriko
+# [Sheriko](https://mishajib.github.io/sheriko/)
